@@ -4,7 +4,7 @@ LoremIpsum:  A utility to provide a 'lorem ipsum' text for use in testing.
 
 ## Installation
 
-Download from http://192.168.1.23:7070
+Download from https://github.com/jsowers34/loremipsum-clj
 
 ## Usage
 
@@ -12,23 +12,15 @@ Download from http://192.168.1.23:7070
 
     $ java -jar lorumipsum-0.1.0-standalone.jar [args]
 
-## Options
-
-FIXME: listing of options this app accepts.
 
 ## Examples
 
 (-main)
-(get-paragraphs 5 true)  --- requests 5 paragraphs starting with the classic 'Lorem ...'
+
+(get-paragraphs 5 true)--- requests 5 paragraphs starting with the classic 'Lorem ...'
+
 (get-paragraphs 3 false) --- requests 3 paragraphs.
 
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
 
 ## License
 
