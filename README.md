@@ -1,4 +1,4 @@
-# lorumipsum
+# loremipsum
 
 LoremIpsum:  A utility to provide a 'lorem ipsum' text for use in testing.
 
@@ -12,7 +12,7 @@ Download from https://github.com/jsowers34/loremipsum-clj
 
 (-main): Provides lorem ipsum paragraphs
 
-    $ java -jar lorumipsum-0.1.0-standalone.jar [args]
+    $ java -jar loremipsum-0.1.0-standalone.jar [args]
 
 
 ## Examples
