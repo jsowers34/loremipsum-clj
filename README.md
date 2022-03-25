@@ -2,6 +2,8 @@
 
 LoremIpsum:  A utility to provide a 'lorem ipsum' text for use in testing.
 
+Based on a Java formulation by Oliver C. Dodd http://01001111.net
+
 ## Installation
 
 Download from https://github.com/jsowers34/loremipsum-clj
